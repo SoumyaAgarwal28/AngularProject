@@ -3,4 +3,5 @@ A web page named "Confusion- A Restaurant's website" developed using ANGULARJS a
 Any feedbacks are always welcomed.
 STEPS TO USE:
 Download the folder named "conFusion" on your PC/Laptop.
+Go to app folder.
 Open the folder and search for index.html .Open it on your default web browser(Best works with CHROME).
